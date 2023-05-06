@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.03 43.43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd33f;
+      }
+
+      .cls-2 {
+        fill: #ef4366;
+      }
+
+      .cls-3 {
+        fill: #20bbb1;
+      }
+
+      .cls-4 {
+        fill: #54256c;
+      }
+
+      .cls-5 {
+        font-family: Galvji-Bold, Galvji;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-family: Galvji, Galvji;
+      }
+
+      .cls-7 {
+        fill: #249ad6;
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-3" d="M23.14,23.29h20.15v15.36c0,2.64-2.14,4.79-4.79,4.79h-15.36V23.29h0Z"/>
+      <path class="cls-1" d="M0,23.29H20.15v15.36c0,2.64-2.14,4.79-4.79,4.79H0V23.29H0Z" transform="translate(43.43 23.29) rotate(90)"/>
+      <path class="cls-4" d="M0,0H20.15V15.36c0,2.64-2.14,4.79-4.79,4.79H0V0H0Z" transform="translate(20.15 20.15) rotate(180)"/>
+      <path class="cls-2" d="M23.14,0h20.15V15.36c0,2.64-2.14,4.79-4.79,4.79h-15.36V0h0Z" transform="translate(23.14 43.28) rotate(-90)"/>
+    </g>
+    <text class="cls-7" transform="translate(51.84 17.92)"><tspan class="cls-5"><tspan x="0" y="0">EDGEWATER PRIMARY</tspan></tspan><tspan class="cls-6"><tspan x="0" y="14.4">ACADEMY</tspan></tspan></text>
+  </g>
+</svg>
